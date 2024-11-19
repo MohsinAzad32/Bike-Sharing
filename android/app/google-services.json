@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "680652560693",
+    "project_id": "fire-setup-3b915",
+    "storage_bucket": "fire-setup-3b915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680652560693:android:774bed931ead3d5bd6d47c",
+        "android_client_info": {
+          "package_name": "com.example.bike_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjrEKuVDsed8zXA1y-aN38IdwYuo6-ajI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
